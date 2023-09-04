@@ -1,0 +1,15 @@
+{
+	"directory": "bgs/whitty",
+	"defaultZoom": 0.9,
+	"isPixelStage": false,
+
+	"boyfriend": [1500, 225],
+	"girlfriend": [1100, 460],
+	"opponent": [600, 525],
+	"hide_girlfriend": true,
+
+	"camera_boyfriend": [-300, 0],
+	"camera_opponent": [200, -200],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1
+}

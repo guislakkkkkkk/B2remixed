@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-120
+			],
+			"anim": "drink",
+			"fps": 24,
+			"name": "B2Anniedrink",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39
+			]
+		},
+		{
+			"offsets": [
+				80,
+				-131
+			],
+			"indices": [
+				5,
+				6
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "B2Anniedrink Loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/B2AnnieSip",
+	"position": [
+		-240,
+		-30
+	],
+	"healthicon": "annie",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		93,
+		179
+	],
+	"camera_position": [
+		60,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="B2AnnieSip.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="B2Anniedrink0000" x="30" y="30" width="412" height="675" frameX="-228" frameY="0" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0001" x="472" y="30" width="419" height="675" frameX="-221" frameY="0" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0002" x="921" y="30" width="440" height="674" frameX="-199" frameY="-1" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0003" x="1391" y="30" width="443" height="674" frameX="-196" frameY="-1" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0004" x="1864" y="30" width="512" height="674" frameX="-126" frameY="-1" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0005" x="2406" y="30" width="512" height="674" frameX="-126" frameY="-1" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0006" x="2948" y="30" width="567" height="674" frameX="-71" frameY="-1" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0007" x="30" y="735" width="567" height="674" frameX="-71" frameY="-1" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0008" x="627" y="735" width="599" height="674" frameX="-39" frameY="-1" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0009" x="1256" y="735" width="599" height="674" frameX="-39" frameY="-1" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0010" x="1885" y="735" width="598" height="674" frameX="-40" frameY="-1" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0011" x="2513" y="735" width="603" height="672" frameX="-40" frameY="-3" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0012" x="3146" y="735" width="611" height="683" frameX="-32" frameY="-3" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0013" x="30" y="1448" width="620" height="674" frameX="-32" frameY="-12" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0014" x="680" y="1448" width="629" height="662" frameX="-23" frameY="-12" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0015" x="1339" y="1448" width="628" height="663" frameX="-23" frameY="-12" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0016" x="1997" y="1448" width="643" height="667" frameX="-8" frameY="-12" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0017" x="2670" y="1448" width="637" height="668" frameX="-8" frameY="-11" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0018" x="3337" y="1448" width="642" height="684" frameX="-3" frameY="-11" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0019" x="30" y="2162" width="642" height="684" frameX="-3" frameY="-11" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0020" x="702" y="2162" width="644" height="682" frameX="-1" frameY="-11" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0021" x="702" y="2162" width="644" height="682" frameX="-1" frameY="-11" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0022" x="1376" y="2162" width="644" height="683" frameX="-1" frameY="-11" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0023" x="1376" y="2162" width="644" height="683" frameX="-1" frameY="-11" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0024" x="2050" y="2162" width="645" height="684" frameX="0" frameY="-11" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0025" x="2050" y="2162" width="645" height="684" frameX="0" frameY="-11" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0026" x="2050" y="2162" width="645" height="684" frameX="0" frameY="-11" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0027" x="2050" y="2162" width="645" height="684" frameX="0" frameY="-11" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0028" x="2050" y="2162" width="645" height="684" frameX="0" frameY="-11" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0029" x="2050" y="2162" width="645" height="684" frameX="0" frameY="-11" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0030" x="2050" y="2162" width="645" height="684" frameX="0" frameY="-11" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0031" x="2050" y="2162" width="645" height="684" frameX="0" frameY="-11" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0032" x="2050" y="2162" width="645" height="684" frameX="0" frameY="-11" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0033" x="2050" y="2162" width="645" height="684" frameX="0" frameY="-11" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0034" x="2050" y="2162" width="645" height="684" frameX="0" frameY="-11" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0035" x="2050" y="2162" width="645" height="684" frameX="0" frameY="-11" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0036" x="2050" y="2162" width="645" height="684" frameX="0" frameY="-11" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0037" x="2050" y="2162" width="645" height="684" frameX="0" frameY="-11" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0038" x="2050" y="2162" width="645" height="684" frameX="0" frameY="-11" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink0039" x="2050" y="2162" width="645" height="684" frameX="0" frameY="-11" frameWidth="652" frameHeight="695"/>
+	<SubTexture name="B2Anniedrink Loop0000" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0001" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0002" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0003" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0004" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0005" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0006" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0007" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0008" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0009" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0010" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0011" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0012" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0013" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0014" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0015" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0016" x="3400" y="2162" width="645" height="681" frameX="0" frameY="-3" frameWidth="645" frameHeight="684"/>
+	<SubTexture name="B2Anniedrink Loop0017" x="3400" y="2162" width="645" height="681" frameX="0" frameY="-3" frameWidth="645" frameHeight="684"/>
+	<SubTexture name="B2Anniedrink Loop0018" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0019" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0020" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0021" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0022" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0023" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0024" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0025" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0026" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0027" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0028" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0029" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0030" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0031" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0032" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0033" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0034" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0035" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0036" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0037" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0038" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0039" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0040" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0041" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0042" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0043" x="2725" y="2162" width="645" height="684"/>
+	<SubTexture name="B2Anniedrink Loop0044" x="2725" y="2162" width="645" height="684"/>
+</TextureAtlas>

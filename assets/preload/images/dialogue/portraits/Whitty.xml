@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Whitty.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Whitty_portrait0000" x="0" y="0" width="440" height="521" frameX="-78" frameY="-131" frameWidth="774" frameHeight="681"/>
+	<SubTexture name="Whitty_portrait0001" x="440" y="0" width="442" height="534" frameX="-102" frameY="-119" frameWidth="774" frameHeight="681"/>
+	<SubTexture name="Whitty_portrait0002" x="882" y="0" width="464" height="548" frameX="-89" frameY="-97" frameWidth="774" frameHeight="681"/>
+	<SubTexture name="Whitty_portrait0003" x="1346" y="0" width="434" height="533" frameX="-86" frameY="-118" frameWidth="774" frameHeight="681"/>
+	<SubTexture name="Whitty_portrait0004" x="0" y="548" width="575" height="650" frameX="-12" frameY="0" frameWidth="774" frameHeight="681"/>
+	<SubTexture name="Whitty_portrait0005" x="575" y="548" width="494" height="623" frameX="0" frameY="-56" frameWidth="774" frameHeight="681"/>
+	<SubTexture name="Whitty_portrait0006" x="1069" y="548" width="770" height="669" frameX="-4" frameY="-12" frameWidth="774" frameHeight="681"/>
+	<SubTexture name="Whitty_portrait0007" x="0" y="1217" width="486" height="622" frameX="-8" frameY="-55" frameWidth="774" frameHeight="681"/>
+</TextureAtlas>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="B3.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="B3_portrait0000" x="0" y="0" width="441" height="427" frameX="0" frameY="-22" frameWidth="475" frameHeight="449"/>
+	<SubTexture name="B3_portrait0001" x="441" y="0" width="435" height="421" frameX="-16" frameY="-25" frameWidth="475" frameHeight="449"/>
+	<SubTexture name="B3_portrait0002" x="876" y="0" width="441" height="429" frameX="-2" frameY="-19" frameWidth="475" frameHeight="449"/>
+	<SubTexture name="B3_portrait0003" x="1317" y="0" width="435" height="444" frameX="-39" frameY="-3" frameWidth="475" frameHeight="449"/>
+	<SubTexture name="B3_portrait0004" x="0" y="444" width="425" height="411" frameX="-24" frameY="-34" frameWidth="475" frameHeight="449"/>
+	<SubTexture name="B3_portrait0005" x="425" y="444" width="435" height="448" frameX="-40" frameY="0" frameWidth="475" frameHeight="449"/>
+	<SubTexture name="B3_portrait0006" x="860" y="444" width="443" height="439" frameX="-6" frameY="-9" frameWidth="475" frameHeight="449"/>
+</TextureAtlas>

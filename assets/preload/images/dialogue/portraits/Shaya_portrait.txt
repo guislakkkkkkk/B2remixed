@@ -1,0 +1,10 @@
+indices:default:0
+indices:happy:0
+indices:smug:1
+indices:veryhappy:2
+indices:shocked:3
+indices:embarrased:4
+indices:confused:5
+indices:annoyed:6
+indices:angry:7
+indices:rage:8

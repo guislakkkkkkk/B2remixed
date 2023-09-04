@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-100,
+				190
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GhostCelloIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-100,
+				204
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GhostCelloRight"
+		},
+		{
+			"offsets": [
+				-100,
+				207
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GhostCelloUp"
+		},
+		{
+			"offsets": [
+				-100,
+				166
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "GhostCelloDown"
+		},
+		{
+			"offsets": [
+				-100,
+				198
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GhostCelloLeft"
+		},
+		{
+			"offsets": [
+				-100,
+				166
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "fade",
+			"loop": false,
+			"name": "GhostCelloDownFade"
+		},
+		{
+			"offsets": [
+				-100,
+				166
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "pop",
+			"loop": false,
+			"name": "GhostCelloDownPopBack"
+		},
+		{
+			"offsets": [
+				-100,
+				166
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "GhostCelloDown"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/B2GarcelloGhost",
+	"position": [
+		-150,
+		-30
+	],
+	"healthicon": "b3GarDead",
+	"flip_x": false,
+	"healthbar_colors": [
+		148,
+		255,
+		239
+	],
+	"camera_position": [
+		70,
+		-150
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

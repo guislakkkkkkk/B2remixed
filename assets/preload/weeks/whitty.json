@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Lo-Fight", "Whitty", [146, 113, 253]],
+		["Overhead", "Whitty", [146, 113, 253]],
+		["Ballistic", "Whitty", [146, 113, 253]],
+		["Underground", "Julian", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Back Alley Blitz",
+	"weekBefore": "tutorial",
+	"weekName": "Whitty",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				171,
+				412
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "julian excited idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				229,
+				550
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "julian excited up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				373,
+				279
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "julian excited down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				214,
+				427
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "julian excited left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				164,
+				392
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "julain excited right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/JulianWireframe",
+	"position": [
+		10,
+		480
+	],
+	"healthicon": "JulianWireframe",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-110,
+		-390
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

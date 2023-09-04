@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Shaya.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Shaya_portrait0000" x="0" y="0" width="437" height="405" frameX="-13" frameY="-10" frameWidth="452" frameHeight="415"/>
+	<SubTexture name="Shaya_portrait0001" x="437" y="0" width="437" height="405" frameX="-13" frameY="-10" frameWidth="452" frameHeight="415"/>
+	<SubTexture name="Shaya_portrait0002" x="874" y="0" width="443" height="403" frameX="0" frameY="-11" frameWidth="452" frameHeight="415"/>
+	<SubTexture name="Shaya_portrait0003" x="1317" y="0" width="435" height="409" frameX="-13" frameY="-6" frameWidth="452" frameHeight="415"/>
+	<SubTexture name="Shaya_portrait0004" x="0" y="409" width="435" height="409" frameX="-14" frameY="-6" frameWidth="452" frameHeight="415"/>
+	<SubTexture name="Shaya_portrait0005" x="435" y="409" width="435" height="413" frameX="-13" frameY="-2" frameWidth="452" frameHeight="415"/>
+	<SubTexture name="Shaya_portrait0006" x="870" y="409" width="439" height="415" frameX="-13" frameY="0" frameWidth="452" frameHeight="415"/>
+	<SubTexture name="Shaya_portrait0007" x="1309" y="409" width="427" height="409" frameX="-15" frameY="-6" frameWidth="452" frameHeight="415"/>
+	<SubTexture name="Shaya_portrait0008" x="0" y="824" width="427" height="409" frameX="-16" frameY="-6" frameWidth="452" frameHeight="415"/>
+</TextureAtlas>

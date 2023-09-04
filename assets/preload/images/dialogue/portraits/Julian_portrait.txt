@@ -1,0 +1,6 @@
+indices:default:0
+indices:hm:0
+indices:smug:1
+indices:excited:2
+indices:bomb:3
+indices:mic:4

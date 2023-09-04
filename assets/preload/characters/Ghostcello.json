@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-100,
+				190
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GhostCelloIdle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				204
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GhostCelloRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				207
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GhostCelloUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				166
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GhostCelloDown",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				198
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GhostCelloLeft",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/B2GarcelloGhost",
+	"position": [
+		-150,
+		-30
+	],
+	"healthicon": "b3GarDead",
+	"flip_x": false,
+	"healthbar_colors": [
+		148,
+		255,
+		239
+	],
+	"camera_position": [
+		70,
+		-150
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

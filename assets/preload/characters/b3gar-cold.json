@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				100,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "B2GarIdle"
+		},
+		{
+			"offsets": [
+				68,
+				61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "B2GarDown"
+		},
+		{
+			"offsets": [
+				97,
+				115
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "B2GarUp"
+		},
+		{
+			"offsets": [
+				90,
+				93
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "B2GarLeft"
+		},
+		{
+			"offsets": [
+				75,
+				99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "B2GarRight"
+		},
+		{
+			"offsets": [
+				98,
+				118
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sneeze",
+			"indices": [],
+			"name": "B2GarSneeze"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/B2GarcelloFreezing",
+	"position": [
+		-40,
+		90
+	],
+	"healthicon": "b2GarCold",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		113,
+		162
+	],
+	"camera_position": [
+		-180,
+		-190
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

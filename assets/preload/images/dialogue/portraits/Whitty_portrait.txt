@@ -1,0 +1,9 @@
+indices:default:0
+indices:hm:0
+indices:angry:1
+indices:annoyed:2
+indices:confused:3
+indices:ballistic:4
+indices:carol:5
+indices:carolcuff:6
+indices:carolcalm:7

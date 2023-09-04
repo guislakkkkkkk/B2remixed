@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				182,
+				452
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "B2BWhittyIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				159,
+				347
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "B2BWhittyRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				219,
+				507
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "B2BWhittyDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				553
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "B2BWhittyUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				413,
+				561
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "B2BWhittyLeft",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/B2BallisticWhittyAngrier",
+	"position": [
+		70,
+		430
+	],
+	"healthicon": "BallisticWhitty",
+	"flip_x": false,
+	"healthbar_colors": [
+		104,
+		251,
+		255
+	],
+	"camera_position": [
+		-120,
+		-530
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

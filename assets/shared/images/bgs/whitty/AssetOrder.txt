@@ -1,0 +1,20 @@
+code the assets / pngs in from the up to down order
+
+sky
+backcity
+city3
+city2
+city1
+trainrail
+frontcity
+tubes
+wall
+road
+fence
+floor
+charactershades
+walls
+foregroundcables
+
+
+

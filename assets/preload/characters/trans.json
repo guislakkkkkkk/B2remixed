@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				480,
+				720
+			],
+			"anim": "trans",
+			"fps": 24,
+			"name": "B2Whittytransform",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/whittytrans",
+	"position": [
+		150,
+		550
+	],
+	"healthicon": "BallisticWhitty",
+	"flip_x": false,
+	"healthbar_colors": [
+		104,
+		251,
+		255
+	],
+	"camera_position": [
+		-490,
+		-640
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

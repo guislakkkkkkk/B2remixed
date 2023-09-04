@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "B2GarIdle"
+		},
+		{
+			"offsets": [
+				-25,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "B2GarRight"
+		},
+		{
+			"offsets": [
+				-10,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "B2GarLeft"
+		},
+		{
+			"offsets": [
+				-32,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "B2GarDown"
+		},
+		{
+			"offsets": [
+				-4,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "B2GarUp"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/B2Garcello",
+	"position": [
+		-150,
+		-30
+	],
+	"healthicon": "b2Gar",
+	"flip_x": false,
+	"healthbar_colors": [
+		53,
+		107,
+		196
+	],
+	"camera_position": [
+		-90,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

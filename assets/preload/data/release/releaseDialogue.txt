@@ -1,0 +1,19 @@
+:music:gar:0.4
+:font:size:32
+:autoskip:during:3.3
+:garcello:wakeup: Ah man. That was not good for my back... What the hell happ-
+:garcello:surprised: Oh.
+:garcello:surprised: I'm dead.
+:B3:surprised: ...
+:garcello:blank: Can't believe I died like that.
+:garcello:wakeup: Man… Annie's gonna kill me when she hears about this.
+:B3:confused: (Aren't you already...)
+:garcello:blank: Welp. I guess I'm here for limited time.
+:B3:surprised: Why?!
+:garcello:glad: I don't know. Ghost rules I think.
+:B3:sad: Damn.
+:garcello:blank: Sorry for traumatizing you little dude, I had no clue this would happen.
+:garcello:glad: Not sure how much time is left, but let's sing a few more songs. I wanna have some fun before I go. Could you do that for me?
+:B3:sad: ...
+:B3:happy: Sure. Let's do this.
+:garcello:glad: Nice.

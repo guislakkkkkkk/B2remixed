@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-130
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "B2AnnieExcitedIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-153,
+				-127
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "B2AnnieExcitedUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-111,
+				-127
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "B2AnnieExcitedRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-154,
+				-109
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "B2AnnieExcitedLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-167,
+				-199
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "B2AnnieExcitedDown",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/B2AnnieExcited",
+	"position": [
+		-150,
+		-30
+	],
+	"healthicon": "annie",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		93,
+		179
+	],
+	"camera_position": [
+		200,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

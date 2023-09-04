@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Julian.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Julian_portrait0000" x="0" y="0" width="398" height="433" frameX="-54" frameY="-5" frameWidth="557" frameHeight="467"/>
+	<SubTexture name="Julian_portrait0001" x="398" y="0" width="401" height="438" frameX="-51" frameY="0" frameWidth="557" frameHeight="467"/>
+	<SubTexture name="Julian_portrait0002" x="799" y="0" width="454" height="449" frameX="0" frameY="-5" frameWidth="557" frameHeight="467"/>
+	<SubTexture name="Julian_portrait0003" x="1253" y="0" width="503" height="457" frameX="-54" frameY="-5" frameWidth="557" frameHeight="467"/>
+	<SubTexture name="Julian_portrait0004" x="0" y="457" width="446" height="462" frameX="-49" frameY="-5" frameWidth="557" frameHeight="467"/>
+</TextureAtlas>

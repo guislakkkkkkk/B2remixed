@@ -1,0 +1,132 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-19,
+				172
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "Dancing Beat"
+		},
+		{
+			"offsets": [
+				-19,
+				172
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "Dancing Beat"
+		},
+		{
+			"offsets": [
+				-16,
+				157
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GF Down Note"
+		},
+		{
+			"offsets": [
+				-16,
+				177
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GF Right note"
+		},
+		{
+			"offsets": [
+				-16,
+				174
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GF Up Note"
+		},
+		{
+			"offsets": [
+				-16,
+				178
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GF left note"
+		},
+		{
+			"offsets": [
+				-19,
+				169
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cheer",
+			"indices": [],
+			"name": "GF Cheer"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Drumcello",
+	"position": [
+		-100,
+		-20
+	],
+	"healthicon": "b3GarDead",
+	"flip_x": false,
+	"healthbar_colors": [
+		148,
+		255,
+		239
+	],
+	"camera_position": [
+		-70,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

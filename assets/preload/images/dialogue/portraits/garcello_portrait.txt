@@ -1,0 +1,14 @@
+indices:default:0
+indices:calm:0
+indices:happy:1
+indices:confused:2
+indices:thinking:3
+indices:coldhappy:4
+indices:coldcalm:5
+indices:sneeze:6
+indices:cold:7
+indices:what:8
+indices:wakeup:9
+indices:glad:10
+indices:surprised:11
+indices:blank:12

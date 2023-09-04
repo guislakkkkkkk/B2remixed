@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="julian.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="julian down0000" x="10" y="10" width="595" height="715" pivotX="4.85" pivotY="0.5" frameX="0" frameY="-13" frameWidth="595" frameHeight="728"/>
+	<SubTexture name="julian down0001" x="10" y="10" width="595" height="715" frameX="0" frameY="-13" frameWidth="595" frameHeight="728"/>
+	<SubTexture name="julian down0002" x="615" y="10" width="587" height="723" frameX="-3" frameY="-5" frameWidth="595" frameHeight="728"/>
+	<SubTexture name="julian down0003" x="615" y="10" width="587" height="723" frameX="-3" frameY="-5" frameWidth="595" frameHeight="728"/>
+	<SubTexture name="julian down0004" x="1212" y="10" width="583" height="727" frameX="-5" frameY="-1" frameWidth="595" frameHeight="728"/>
+	<SubTexture name="julian down0005" x="1212" y="10" width="583" height="727" frameX="-5" frameY="-1" frameWidth="595" frameHeight="728"/>
+	<SubTexture name="julian down0006" x="1805" y="10" width="583" height="728" frameX="-5" frameY="0" frameWidth="595" frameHeight="728"/>
+	<SubTexture name="julian down0007" x="1805" y="10" width="583" height="728" frameX="-5" frameY="0" frameWidth="595" frameHeight="728"/>
+	<SubTexture name="julian down0008" x="1805" y="10" width="583" height="728" frameX="-5" frameY="0" frameWidth="595" frameHeight="728"/>
+	<SubTexture name="julian down0009" x="1805" y="10" width="583" height="728" frameX="-5" frameY="0" frameWidth="595" frameHeight="728"/>
+	<SubTexture name="julian down0010" x="1805" y="10" width="583" height="728" frameX="-5" frameY="0" frameWidth="595" frameHeight="728"/>
+	<SubTexture name="julian down0011" x="1805" y="10" width="583" height="728" frameX="-5" frameY="0" frameWidth="595" frameHeight="728"/>
+	<SubTexture name="julian down0012" x="1805" y="10" width="583" height="728" frameX="-5" frameY="0" frameWidth="595" frameHeight="728"/>
+	<SubTexture name="julian down0013" x="1805" y="10" width="583" height="728" frameX="-5" frameY="0" frameWidth="595" frameHeight="728"/>
+	<SubTexture name="julian down0014" x="1805" y="10" width="583" height="728" frameX="-5" frameY="0" frameWidth="595" frameHeight="728"/>
+	<SubTexture name="julian idle0000" x="2398" y="10" width="381" height="831" pivotX="84.55" pivotY="6.85" frameX="-102" frameY="-14" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian idle0001" x="2398" y="10" width="381" height="831" frameX="-102" frameY="-14" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian idle0002" x="2789" y="10" width="506" height="826" frameX="-80" frameY="-24" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian idle0003" x="2789" y="10" width="506" height="826" frameX="-80" frameY="-24" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian idle0004" x="2789" y="10" width="506" height="826" frameX="-80" frameY="-24" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian idle0005" x="3305" y="10" width="499" height="823" frameX="-71" frameY="-27" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian idle0006" x="3305" y="10" width="499" height="823" frameX="-71" frameY="-27" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian idle0007" x="3305" y="10" width="499" height="823" frameX="-71" frameY="-27" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian idle0008" x="10" y="851" width="439" height="840" frameX="-53" frameY="-10" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian idle0009" x="10" y="851" width="439" height="840" frameX="-53" frameY="-10" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian idle0010" x="10" y="851" width="439" height="840" frameX="-53" frameY="-10" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian idle0011" x="459" y="851" width="374" height="845" frameX="-102" frameY="0" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian idle0012" x="459" y="851" width="374" height="845" frameX="-102" frameY="0" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian idle0013" x="843" y="851" width="371" height="844" frameX="-97" frameY="-1" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian idle0014" x="843" y="851" width="371" height="844" frameX="-97" frameY="-1" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian idle0015" x="1224" y="851" width="355" height="844" frameX="-90" frameY="-1" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian idle0016" x="1224" y="851" width="355" height="844" frameX="-90" frameY="-1" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian idle0017" x="1589" y="851" width="455" height="814" frameX="0" frameY="-21" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian idle0018" x="1589" y="851" width="455" height="814" frameX="0" frameY="-21" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian idle0019" x="1589" y="851" width="455" height="814" frameX="0" frameY="-21" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian idle0020" x="2054" y="851" width="423" height="820" frameX="-33" frameY="-14" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian idle0021" x="2054" y="851" width="423" height="820" frameX="-33" frameY="-14" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian idle0022" x="2054" y="851" width="423" height="820" frameX="-33" frameY="-14" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian idle0023" x="2487" y="851" width="425" height="821" frameX="-40" frameY="-14" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian idle0024" x="2487" y="851" width="425" height="821" frameX="-40" frameY="-14" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian idle0025" x="2487" y="851" width="425" height="821" frameX="-40" frameY="-14" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian idle0026" x="2922" y="851" width="358" height="830" frameX="-91" frameY="-15" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian idle0027" x="2922" y="851" width="358" height="830" frameX="-91" frameY="-15" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian idle0028" x="3290" y="851" width="363" height="831" frameX="-90" frameY="-14" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian idle0029" x="3290" y="851" width="363" height="831" frameX="-90" frameY="-14" frameWidth="586" frameHeight="850"/>
+	<SubTexture name="julian left0000" x="10" y="1706" width="519" height="820" pivotX="42" pivotY="2.6" frameX="0" frameY="-8" frameWidth="520" frameHeight="828"/>
+	<SubTexture name="julian left0001" x="10" y="1706" width="519" height="820" frameX="0" frameY="-8" frameWidth="520" frameHeight="828"/>
+	<SubTexture name="julian left0002" x="539" y="1706" width="488" height="828" frameX="-32" frameY="0" frameWidth="520" frameHeight="828"/>
+	<SubTexture name="julian left0003" x="539" y="1706" width="488" height="828" frameX="-32" frameY="0" frameWidth="520" frameHeight="828"/>
+	<SubTexture name="julian left0004" x="1037" y="1706" width="483" height="826" frameX="-37" frameY="-2" frameWidth="520" frameHeight="828"/>
+	<SubTexture name="julian left0005" x="1037" y="1706" width="483" height="826" frameX="-37" frameY="-2" frameWidth="520" frameHeight="828"/>
+	<SubTexture name="julian left0006" x="1530" y="1706" width="479" height="825" frameX="-41" frameY="-3" frameWidth="520" frameHeight="828"/>
+	<SubTexture name="julian left0007" x="1530" y="1706" width="479" height="825" frameX="-41" frameY="-3" frameWidth="520" frameHeight="828"/>
+	<SubTexture name="julian left0008" x="1530" y="1706" width="479" height="825" frameX="-41" frameY="-3" frameWidth="520" frameHeight="828"/>
+	<SubTexture name="julian left0009" x="1530" y="1706" width="479" height="825" frameX="-41" frameY="-3" frameWidth="520" frameHeight="828"/>
+	<SubTexture name="julian left0010" x="1530" y="1706" width="479" height="825" frameX="-41" frameY="-3" frameWidth="520" frameHeight="828"/>
+	<SubTexture name="julian left0011" x="1530" y="1706" width="479" height="825" frameX="-41" frameY="-3" frameWidth="520" frameHeight="828"/>
+	<SubTexture name="julian left0012" x="1530" y="1706" width="479" height="825" frameX="-41" frameY="-3" frameWidth="520" frameHeight="828"/>
+	<SubTexture name="julian left0013" x="1530" y="1706" width="479" height="825" frameX="-41" frameY="-3" frameWidth="520" frameHeight="828"/>
+	<SubTexture name="julian left0014" x="1530" y="1706" width="479" height="825" frameX="-41" frameY="-3" frameWidth="520" frameHeight="828"/>
+	<SubTexture name="julian right0000" x="2019" y="1706" width="563" height="830" pivotX="-14.7" pivotY="0.85" frameX="-3" frameY="-5" frameWidth="566" frameHeight="835"/>
+	<SubTexture name="julian right0001" x="2019" y="1706" width="563" height="830" frameX="-3" frameY="-5" frameWidth="566" frameHeight="835"/>
+	<SubTexture name="julian right0002" x="2592" y="1706" width="525" height="833" frameX="-1" frameY="-2" frameWidth="566" frameHeight="835"/>
+	<SubTexture name="julian right0003" x="2592" y="1706" width="525" height="833" frameX="-1" frameY="-2" frameWidth="566" frameHeight="835"/>
+	<SubTexture name="julian right0004" x="3127" y="1706" width="505" height="835" frameX="0" frameY="0" frameWidth="566" frameHeight="835"/>
+	<SubTexture name="julian right0005" x="3127" y="1706" width="505" height="835" frameX="0" frameY="0" frameWidth="566" frameHeight="835"/>
+	<SubTexture name="julian right0006" x="10" y="2551" width="502" height="835" frameX="0" frameY="0" frameWidth="566" frameHeight="835"/>
+	<SubTexture name="julian right0007" x="10" y="2551" width="502" height="835" frameX="0" frameY="0" frameWidth="566" frameHeight="835"/>
+	<SubTexture name="julian right0008" x="10" y="2551" width="502" height="835" frameX="0" frameY="0" frameWidth="566" frameHeight="835"/>
+	<SubTexture name="julian right0009" x="10" y="2551" width="502" height="835" frameX="0" frameY="0" frameWidth="566" frameHeight="835"/>
+	<SubTexture name="julian right0010" x="10" y="2551" width="502" height="835" frameX="0" frameY="0" frameWidth="566" frameHeight="835"/>
+	<SubTexture name="julian right0011" x="10" y="2551" width="502" height="835" frameX="0" frameY="0" frameWidth="566" frameHeight="835"/>
+	<SubTexture name="julian right0012" x="10" y="2551" width="502" height="835" frameX="0" frameY="0" frameWidth="566" frameHeight="835"/>
+	<SubTexture name="julian right0013" x="10" y="2551" width="502" height="835" frameX="0" frameY="0" frameWidth="566" frameHeight="835"/>
+	<SubTexture name="julian right0014" x="10" y="2551" width="502" height="835" frameX="0" frameY="0" frameWidth="566" frameHeight="835"/>
+	<SubTexture name="julian up 0000" x="522" y="2551" width="367" height="890" pivotX="4.7" pivotY="17.1" frameX="-7" frameY="0" frameWidth="378" frameHeight="891"/>
+	<SubTexture name="julian up 0001" x="522" y="2551" width="367" height="890" frameX="-7" frameY="0" frameWidth="378" frameHeight="891"/>
+	<SubTexture name="julian up 0002" x="899" y="2551" width="373" height="884" frameX="-3" frameY="-7" frameWidth="378" frameHeight="891"/>
+	<SubTexture name="julian up 0003" x="899" y="2551" width="373" height="884" frameX="-3" frameY="-7" frameWidth="378" frameHeight="891"/>
+	<SubTexture name="julian up 0004" x="1282" y="2551" width="378" height="870" frameX="0" frameY="-21" frameWidth="378" frameHeight="891"/>
+	<SubTexture name="julian up 0005" x="1282" y="2551" width="378" height="870" frameX="0" frameY="-21" frameWidth="378" frameHeight="891"/>
+	<SubTexture name="julian up 0006" x="1670" y="2551" width="378" height="874" frameX="0" frameY="-17" frameWidth="378" frameHeight="891"/>
+	<SubTexture name="julian up 0007" x="1670" y="2551" width="378" height="874" frameX="0" frameY="-17" frameWidth="378" frameHeight="891"/>
+	<SubTexture name="julian up 0008" x="1670" y="2551" width="378" height="874" frameX="0" frameY="-17" frameWidth="378" frameHeight="891"/>
+	<SubTexture name="julian up 0009" x="1670" y="2551" width="378" height="874" frameX="0" frameY="-17" frameWidth="378" frameHeight="891"/>
+	<SubTexture name="julian up 0010" x="1670" y="2551" width="378" height="874" frameX="0" frameY="-17" frameWidth="378" frameHeight="891"/>
+	<SubTexture name="julian up 0011" x="1670" y="2551" width="378" height="874" frameX="0" frameY="-17" frameWidth="378" frameHeight="891"/>
+	<SubTexture name="julian up 0012" x="1670" y="2551" width="378" height="874" frameX="0" frameY="-17" frameWidth="378" frameHeight="891"/>
+	<SubTexture name="julian up 0013" x="1670" y="2551" width="378" height="874" frameX="0" frameY="-17" frameWidth="378" frameHeight="891"/>
+	<SubTexture name="julian up 0014" x="1670" y="2551" width="378" height="874" frameX="0" frameY="-17" frameWidth="378" frameHeight="891"/>
+</TextureAtlas>

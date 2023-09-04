@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GarChillFlow.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GhostCelloChillFlow0000" x="10" y="10" width="756" height="863" frameX="0" frameY="-137" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0001" x="776" y="10" width="756" height="863" frameX="0" frameY="-137" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0002" x="1542" y="10" width="756" height="916" frameX="0" frameY="-84" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0003" x="2308" y="10" width="766" height="949" frameX="0" frameY="-51" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0004" x="3084" y="10" width="766" height="958" frameX="0" frameY="-42" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0005" x="3860" y="10" width="763" height="983" frameX="0" frameY="-17" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0006" x="4633" y="10" width="763" height="983" frameX="0" frameY="-17" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0007" x="5406" y="10" width="763" height="988" frameX="0" frameY="-12" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0008" x="6179" y="10" width="763" height="988" frameX="0" frameY="-12" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0009" x="6952" y="10" width="756" height="866" frameX="0" frameY="-134" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0010" x="10" y="1008" width="756" height="866" frameX="0" frameY="-134" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0011" x="776" y="1008" width="756" height="925" frameX="0" frameY="-75" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0012" x="1542" y="1008" width="756" height="925" frameX="0" frameY="-75" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0013" x="2308" y="1008" width="766" height="958" frameX="0" frameY="-42" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0014" x="3084" y="1008" width="766" height="958" frameX="0" frameY="-42" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0015" x="3860" y="1008" width="763" height="983" frameX="0" frameY="-17" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0016" x="3860" y="1008" width="763" height="983" frameX="0" frameY="-17" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0017" x="4633" y="1008" width="763" height="988" frameX="0" frameY="-12" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0018" x="4633" y="1008" width="763" height="988" frameX="0" frameY="-12" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0019" x="5406" y="1008" width="756" height="866" frameX="0" frameY="-134" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0020" x="6172" y="1008" width="756" height="866" frameX="0" frameY="-134" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0021" x="6938" y="1008" width="763" height="989" frameX="0" frameY="-11" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0022" x="10" y="2007" width="763" height="994" frameX="0" frameY="-6" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0023" x="783" y="2007" width="767" height="1000" frameX="0" frameY="0" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0024" x="1560" y="2007" width="759" height="878" frameX="0" frameY="-122" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0025" x="2329" y="2007" width="759" height="878" frameX="0" frameY="-122" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0026" x="3098" y="2007" width="759" height="937" frameX="0" frameY="-63" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0027" x="3867" y="2007" width="759" height="937" frameX="0" frameY="-63" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0028" x="4636" y="2007" width="769" height="970" frameX="0" frameY="-30" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0029" x="5415" y="2007" width="769" height="970" frameX="0" frameY="-30" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0030" x="6194" y="2007" width="766" height="995" frameX="0" frameY="-5" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0031" x="6194" y="2007" width="766" height="995" frameX="0" frameY="-5" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0032" x="6970" y="2007" width="767" height="1000" frameX="0" frameY="0" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0033" x="10" y="3017" width="767" height="1000" frameX="0" frameY="0" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0034" x="787" y="3017" width="759" height="878" frameX="0" frameY="-122" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0035" x="1556" y="3017" width="759" height="878" frameX="0" frameY="-122" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0036" x="2325" y="3017" width="759" height="937" frameX="0" frameY="-63" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0037" x="2325" y="3017" width="759" height="937" frameX="0" frameY="-63" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0038" x="3094" y="3017" width="769" height="970" frameX="0" frameY="-30" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0039" x="3094" y="3017" width="769" height="970" frameX="0" frameY="-30" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0040" x="3873" y="3017" width="766" height="995" frameX="0" frameY="-5" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0041" x="4649" y="3017" width="766" height="995" frameX="0" frameY="-5" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0042" x="5425" y="3017" width="767" height="1000" frameX="0" frameY="0" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0043" x="5425" y="3017" width="767" height="1000" frameX="0" frameY="0" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0044" x="6202" y="3017" width="759" height="878" frameX="0" frameY="-122" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0045" x="6202" y="3017" width="759" height="878" frameX="0" frameY="-122" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0046" x="6971" y="3017" width="759" height="937" frameX="0" frameY="-63" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0047" x="10" y="4027" width="759" height="937" frameX="0" frameY="-63" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0048" x="779" y="4027" width="769" height="970" frameX="0" frameY="-30" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0049" x="779" y="4027" width="769" height="970" frameX="0" frameY="-30" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0050" x="1558" y="4027" width="766" height="995" frameX="0" frameY="-5" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0051" x="1558" y="4027" width="766" height="995" frameX="0" frameY="-5" frameWidth="769" frameHeight="1000"/>
+	<SubTexture name="GhostCelloChillFlow0052" x="5425" y="3017" width="767" height="1000" frameX="0" frameY="0" frameWidth="769" frameHeight="1000"/>
+</TextureAtlas>

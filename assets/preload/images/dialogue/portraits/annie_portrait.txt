@@ -1,0 +1,3 @@
+indices:default:0
+indices:happy:0
+indices:extrahappy:1

@@ -1,0 +1,19 @@
+:music:dad:0.4
+:font:size:32
+:garcello:thinking: What
+:B3:confused: What
+:garcello:confused: Uh. Hey kid. Are you lost by any chance?
+:B3:confused: No.
+:garcello:calm: Just exploring or something? You’re pretty far from the nearest restaura- I mean hotel.
+:B3:embarrased: Uh…
+:garcello:happy: Sorry if I seem a little off. I haven’t eaten in a minute. 
+:garcello:confused: Actually, now that I’m looking at your hair and shades right now, and you kinda remind me of a guy I saw on TV.
+:garcello:happy: You beat Mia Osuna right? My neice and I are big fans.
+:B3:happy: Yeah! That's me!
+:garcello:calm: That means you’re the real deal huh. Damn. Good on you kid!
+:garcello:confused: I’m kinda interested though. Everyone's seen you rap. But do you sing?
+:B3:happy: Yup!
+:garcello:calm: I was just on my way back to my igloo, mind if I sing a little with you before I go?
+:B3:ready: Sure!
+:garcello:happy: Sick. You’re a nice kid. But let’s do this quickly. It’s getting a little snowy.
+:B3:happy: Mhm.

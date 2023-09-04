@@ -1,0 +1,8 @@
+indices:default:0
+indices:happy:0
+indices:surprised:1
+indices:confused:2
+indices:ready:3
+indices:embarrased:4
+indices:angry:5
+indices:sad:6
