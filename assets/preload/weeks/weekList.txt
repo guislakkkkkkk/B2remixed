@@ -1,4 +1,3 @@
 tutorial
 whitty
 garcello
-tricky
