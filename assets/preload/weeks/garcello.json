@@ -1,6 +1,7 @@
 {
 	"storyName": "Snow Em Out Struggle",
 	"hideFreeplay": false,
+	"difficulties": "easy,normal,hard,get-real",
 	"weekBackground": "stage",
 	"weekBefore": "tutorial",
 	"startUnlocked": true,

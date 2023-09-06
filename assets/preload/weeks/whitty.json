@@ -16,8 +16,8 @@
 	"storyName": "Back Alley Blitz",
 	"weekBefore": "tutorial",
 	"weekName": "Whitty",
-	"startUnlocked": true,
-
+	"startUnlocked": true,"
+"difficulties": "easy,normal,hard,get-real",
 	"hideStoryMode": false,
 	"hideFreeplay": false
 }
