@@ -1,7 +1,6 @@
 {
 	"storyName": "Annie",
 	"hideFreeplay": false,
-	"difficulties": "easy, normal, hard, getreal",
 	"weekBackground": "stage",
 	"weekBefore": "tutorial",
 	"startUnlocked": true,

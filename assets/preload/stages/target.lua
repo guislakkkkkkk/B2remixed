@@ -1,10 +1,18 @@
 local groceries = 0
 
 function onCreate()
-    makeLuaSprite('items','bgs/whitty/items', -4000, -50)
-    setScrollFactor('items',0.95, 0.95) 
+    makeLuaSprite('target', 'bgs/whitty/targetwall', 200, 100);
+    addLuaSprite('target', false);
 
-    addLuaSprite('items')
+    makeLuaSprite('items','bgs/whitty/items', 100, -90);
+    setScrollFactor('items',0.95, 0.95);
+    addLuaSprite('items', false);
+
+    makeLuaSprite('reg', 'bgs/whitty/register', 200, 200);
+    addLuaSprite('reg', true);
+
+    setProperty('bf.group', false);
+    setProperty('dad.group', true);
 
 end
 

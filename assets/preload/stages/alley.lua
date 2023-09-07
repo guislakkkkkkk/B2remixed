@@ -1,56 +1,43 @@
-local shaderName = "chrom"
 function onCreate()
-    shaderCoordFix() -- initialize a fix for textureCoord when resizing game window
+    makeLuaSprite('sky', 'bgs/whitty/sky', 40, 100);
+    addLuaSprite('sky', false);
 
-    makeLuaSprite("chrom")
-    makeGraphic("shaderImage", screenWidth, screenHeight)
+    makeLuaSprite('city', 'bgs/whitty/backcity', 40, 100);
+    addLuaSprite('city', false);
 
-   setSpriteShader("shaderImage", "chrom")
+    makeLuaSprite('city1', 'bgs/whitty/city1', 40, 100);
+    addLuaSprite('city1', false);
 
+    makeLuaSprite('city2', 'bgs/whitty/city2', 40, 100);
+    addLuaSprite('city2', false);
 
-    runHaxeCode([[
-        var shaderName = "]] .. shaderName .. [[";
-        
-        game.initLuaShader(shaderName);
-        
-        var shader0 = game.createRuntimeShader(shaderName);
-        game.camGame.setFilters([new ShaderFilter(shader0)]);
-        game.getLuaObject("chrom").shader = shader0; // setting it into temporary sprite so luas can set its shader uniforms/properties
-        game.camHUD.setFilters([new ShaderFilter(game.getLuaObject("chrom").shader)]);
-        return;
-    ]])
+    makeLuaSprite('city3', 'bgs/whitty/city3', 40, 100);
+    addLuaSprite('city3', false);
+
+    makeLuaSprite('front', 'bgs/whitty/frontcity', 40, 100);
+    addLuaSprite('front', false);
+
+    makeLuaSprite('road', 'bgs/whitty/road', 40, 100);
+    addLuaSprite('road', false);
+
+    makeLuaSprite('wall', 'bgs/whitty/wall', 40, 100);
+    addLuaSprite('wall', false);
+
+    makeLuaSprite('fence', 'bgs/whitty/fence', 40, 100);
+    addLuaSprite('fence', false);
+
+    makeLuaSprite('floor', 'bgs/whitty/floor', 40, 100);
+    addLuaSprite('floor', false);
+
+    makeLuaSprite('shade', 'bgs/whitty/charactershades', 40, 100);
+    addLuaSprite('shade', false);
+
+    makeLuaSprite('walls', 'bgs/whitty/walls', 40, 100);
+    addLuaSprite('walls', false);
+
+    makeLuaSprite('tubes', 'bgs/whitty/tubes', 40, 100);
+    addLuaSprite('tubes', true);
+
+    makeLuaSprite('foreground', 'bgs/whitty/foregroundcables', 40, 100);
+    addLuaSprite('foreground', true);
 end
-
-function onUpdate(elapsed)
-    setShaderFloat("chrom", "iTime", os.clock())
- end
-
-function shaderCoordFix()
-    runHaxeCode([[
-        resetCamCache = function(?spr) {
-            if (spr == null || spr.filters == null) return;
-            spr.__cacheBitmap = null;
-            spr.__cacheBitmapData = null;
-        }
-        
-        fixShaderCoordFix = function(?_) {
-            resetCamCache(game.camGame.flashSprite);
-            resetCamCache(game.camHUD.flashSprite);
-            resetCamCache(game.camOther.flashSprite);
-        }
-    
-        FlxG.signals.gameResized.add(fixShaderCoordFix);
-        fixShaderCoordFix();
-        return;
-    ]])
-    
-    local temp = onDestroy
-    function onDestroy()
-        runHaxeCode([[
-            FlxG.signals.gameResized.remove(fixShaderCoordFix);
-            return;
-        ]])
-        if (temp) then temp() end
-    end
-end
-

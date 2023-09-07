@@ -1,7 +1,6 @@
 {
 	"storyName": "Tricky",
 	"hideFreeplay": false,
-	"difficulties": "easy, normal, hard, getreal",
 	"weekBackground": "stage",
 	"weekCharacters": [
 		"dad",

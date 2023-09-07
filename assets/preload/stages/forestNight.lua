@@ -1,55 +1,25 @@
-local shaderName = "snowfall"
 function onCreate()
-    shaderCoordFix() -- initialize a fix for textureCoord when resizing game window
+    makeLuaSprite('sky', 'bgs/garcello/sky', -2900, -2600);
+    scaleObject('sky', 3, 3);
+    addLuaSprite('sky', false);
 
-    makeLuaSprite("snowfall")
-    makeGraphic("shaderImage", screenWidth, screenHeight)
+    makeLuaSprite('bora', 'bgs/garcello/bora', -2900, -900);
+    scaleObject('bora', 2, 2);
+    addLuaSprite('bora', false);
 
-   setSpriteShader("shaderImage", "snowfall")
+    makeLuaSprite('back1', 'bgs/garcello/back_1', -2900, -900);
+    scaleObject('back1', 3, 3);
+    addLuaSprite('back1', false);
 
+    makeLuaSprite('back2', 'bgs/garcello/back_2', -2900, -900);
+    scaleObject('back2', 3, 3);
+    addLuaSprite('back2', false);
 
-    runHaxeCode([[
-        var shaderName = "]] .. shaderName .. [[";
-        
-        game.initLuaShader(shaderName);
-        
-        var shader0 = game.createRuntimeShader(shaderName);
-        game.camGame.setFilters([new ShaderFilter(shader0)]);
-        game.getLuaObject("snowfall").shader = shader0; // setting it into temporary sprite so luas can set its shader uniforms/properties
-        game.camHUD.setFilters([new ShaderFilter(game.getLuaObject("snowfall").shader)]);
-        return;
-    ]])
-end
+    makeLuaSprite('back3', 'bgs/garcello/back_3', -2900, -900);
+    scaleObject('back3', 3, 3);
+    addLuaSprite('back3', false);
 
-function onUpdate(elapsed)
-    setShaderFloat("snowfall", "time", os.clock())
- end
-
-function shaderCoordFix()
-    runHaxeCode([[
-        resetCamCache = function(?spr) {
-            if (spr == null || spr.filters == null) return;
-            spr.__cacheBitmap = null;
-            spr.__cacheBitmapData = null;
-        }
-        
-        fixShaderCoordFix = function(?_) {
-            resetCamCache(game.camGame.flashSprite);
-            resetCamCache(game.camHUD.flashSprite);
-            resetCamCache(game.camOther.flashSprite);
-        }
-    
-        FlxG.signals.gameResized.add(fixShaderCoordFix);
-        fixShaderCoordFix();
-        return;
-    ]])
-    
-    local temp = onDestroy
-    function onDestroy()
-        runHaxeCode([[
-            FlxG.signals.gameResized.remove(fixShaderCoordFix);
-            return;
-        ]])
-        if (temp) then temp() end
-    end
+    makeLuaSprite('ground', 'bgs/garcello/ground', -2900, -2600);
+    scaleObject('ground', 3, 3);
+    addLuaSprite('ground', false);
 end
