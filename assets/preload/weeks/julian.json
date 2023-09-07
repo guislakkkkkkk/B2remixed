@@ -1,6 +1,6 @@
 {
 	"storyName": "Cool Target",
-	"difficulties": "",
+	"difficulties": "easy, normal, hard, getreal",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
 	"weekBefore": "tutorial",
