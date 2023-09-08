@@ -11,28 +11,28 @@ DEAD SKULLXX: Requested me to add Artist and Charter Credits
 
 local songdata = {
 --yes i used the pico week bc i didnt wanna interfere with the old version
-    ['Lo-Fight'] = {
+    ['lo-fight'] = {
     'Lo-Fight', -- Song Name [1]
     'Tailer', -- Composer [2]
     '5', --  Length for onscreen [3]
     'Niffirg & Lem', -- Charter [4]
     },
 
-    ['Overhead'] = {
+    ['overhead'] = {
         'Overhead',
         'Tacto & LiterallyNoOne',
         '3',
         'Flootena & Clover',
     },
 
-    ['Ballistic'] = {
+    ['ballistic'] = {
         'Ballistic',
         'Kreagato',
         '3',
         'Clover & Faid',
     },    
 
-    ['Headache'] = {
+    ['headache'] = {
     'Headache', -- Song Name [1]
     'Tacto', -- Composer [2]
     '5', --  Length for onscreen [3]
@@ -53,42 +53,42 @@ local songdata = {
         'Clover & Flootena',
     },
 
-    ['Fading'] = {
+    ['fading'] = {
         'Fading',
         'Jabibixd',
         '5',
         'Faid',
     },
 
-    ['Underground'] = {
+    ['underground'] = {
         'Underground',
         'LiterallyNoOne',
         '5',
         'Faid, Clover, & Foxeru',
     },
 
-    ['Bargain'] = {
+    ['bargain'] = {
         'Bargain',
         'LiterallyNoOne',
         '5',
         'Faid & Clover',
     },
 
-    ['Lover'] = {
+    ['lover'] = {
         'Lover',
         'Tailer',
         '5',
         'Flootena & Faid',
     },
 
-    ['Animal'] = {
+    ['animal'] = {
         'Animal',
         'Kreagato',
         '5',
         'Degen Dan & Lem',
     },
 
-    ['Improbable-Outset'] = {
+    ['improbable-outset'] = {
         '???',
         'Kreagato',
         '5',
