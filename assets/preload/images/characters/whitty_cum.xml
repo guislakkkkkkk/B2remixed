@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="whitty_cum.png" width="484" height="3992">
+  <SubTexture name="B2WhittyIdle instance 10000" x="0" y="0"  width="125" height="276" frameX="-0" frameY="-0" frameWidth="125" frameHeight="276"/>
+  <SubTexture name="B2WhittyIdle instance 10001" x="0" y="276"  width="125" height="276" frameX="-0" frameY="-0" frameWidth="125" frameHeight="276"/>
+  <SubTexture name="B2WhittyIdle instance 10002" x="0" y="552"  width="125" height="276" frameX="-0" frameY="-0" frameWidth="125" frameHeight="276"/>
+  <SubTexture name="B2WhittyIdle instance 10003" x="0" y="828"  width="125" height="276" frameX="-0" frameY="-0" frameWidth="125" frameHeight="276"/>
+  <SubTexture name="B2WhittyIdle instance 10004" x="0" y="1104"  width="125" height="276" frameX="-0" frameY="-0" frameWidth="125" frameHeight="276"/>
+  <SubTexture name="B2WhittyIdle instance 10005" x="0" y="1380"  width="125" height="276" frameX="-0" frameY="-0" frameWidth="125" frameHeight="276"/>
+  <SubTexture name="B2WhittyIdle instance 10006" x="0" y="1656"  width="125" height="276" frameX="-0" frameY="-0" frameWidth="125" frameHeight="276"/>
+  <SubTexture name="B2WhittyIdle instance 10007" x="0" y="1932"  width="125" height="276" frameX="-0" frameY="-0" frameWidth="125" frameHeight="276"/>
+  <SubTexture name="B2WhittyIdle instance 10008" x="0" y="2208"  width="125" height="276" frameX="-0" frameY="-0" frameWidth="125" frameHeight="276"/>
+  <SubTexture name="B2WhittyIdle instance 10009" x="0" y="2484"  width="125" height="276" frameX="-0" frameY="-0" frameWidth="125" frameHeight="276"/>
+  <SubTexture name="B2WhittyIdle instance 10010" x="0" y="2760"  width="125" height="276" frameX="-0" frameY="-0" frameWidth="125" frameHeight="276"/>
+  <SubTexture name="B2WhittyIdle instance 10011" x="0" y="3036"  width="125" height="276" frameX="-0" frameY="-0" frameWidth="125" frameHeight="276"/>
+  <SubTexture name="B2WhittyLeft instance 10000" x="0" y="3312"  width="196" height="242" frameX="-0" frameY="-0" frameWidth="196" frameHeight="242"/>
+  <SubTexture name="B2WhittyLeft instance 10001" x="0" y="3554"  width="196" height="242" frameX="-0" frameY="-0" frameWidth="196" frameHeight="242"/>
+  <SubTexture name="B2WhittyLeft instance 10002" x="0" y="3796" width="242" height="196" rotated="true"  frameX="-0" frameY="-0" frameWidth="196" frameHeight="242"/>
+  <SubTexture name="B2WhittyLeft instance 10003" x="242" y="3796" width="242" height="196" rotated="true"  frameX="-0" frameY="-0" frameWidth="196" frameHeight="242"/>
+  <SubTexture name="B2WhittyLeft instance 10004" x="125" y="0"  width="196" height="242" frameX="-0" frameY="-0" frameWidth="196" frameHeight="242"/>
+  <SubTexture name="B2WhittyUp instance 10000" x="125" y="242"  width="146" height="229" frameX="-0" frameY="-0" frameWidth="146" frameHeight="229"/>
+  <SubTexture name="B2WhittyUp instance 10001" x="125" y="471"  width="146" height="229" frameX="-0" frameY="-0" frameWidth="146" frameHeight="229"/>
+  <SubTexture name="B2WhittyUp instance 10002" x="125" y="700"  width="146" height="229" frameX="-0" frameY="-0" frameWidth="146" frameHeight="229"/>
+  <SubTexture name="B2WhittyUp instance 10003" x="125" y="929"  width="146" height="229" frameX="-0" frameY="-0" frameWidth="146" frameHeight="229"/>
+  <SubTexture name="B2WhittyUp instance 10004" x="125" y="1158"  width="146" height="229" frameX="-0" frameY="-0" frameWidth="146" frameHeight="229"/>
+  <SubTexture name="B2WhittyRight instance 10000" x="125" y="1387" width="156" height="217" rotated="true"  frameX="-0" frameY="-0" frameWidth="217" frameHeight="156"/>
+  <SubTexture name="B2WhittyRight instance 10001" x="271" y="242" width="156" height="217" rotated="true"  frameX="-0" frameY="-0" frameWidth="217" frameHeight="156"/>
+  <SubTexture name="B2WhittyRight instance 10002" x="321" y="0" width="156" height="217" rotated="true"  frameX="-0" frameY="-0" frameWidth="217" frameHeight="156"/>
+  <SubTexture name="B2WhittyRight instance 10003" x="271" y="459" width="156" height="217" rotated="true"  frameX="-0" frameY="-0" frameWidth="217" frameHeight="156"/>
+  <SubTexture name="B2WhittyDown instance 10000" x="271" y="676" width="149" height="215" rotated="true"  frameX="-0" frameY="-0" frameWidth="215" frameHeight="149"/>
+  <SubTexture name="B2WhittyDown instance 10001" x="271" y="891" width="149" height="215" rotated="true"  frameX="-0" frameY="-0" frameWidth="215" frameHeight="149"/>
+  <SubTexture name="B2WhittyDown instance 10002" x="271" y="1106" width="149" height="215" rotated="true"  frameX="-0" frameY="-0" frameWidth="215" frameHeight="149"/>
+  <SubTexture name="B2WhittyDown instance 10003" x="125" y="1604" width="149" height="215" rotated="true"  frameX="-0" frameY="-0" frameWidth="215" frameHeight="149"/>
+</TextureAtlas>

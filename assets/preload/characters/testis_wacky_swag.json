@@ -1,66 +1,66 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				171,
 				412
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "julian excited idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "julian excited idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				229,
 				550
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "julian excited up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "julian excited up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				373,
 				279
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "julian excited down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "julian excited down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				214,
 				427
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "julian excited left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "julian excited left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				164,
 				392
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "julain excited right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "julain excited right"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/JulianWireframe",
 	"position": [
-		10,
-		480
+		250,
+		630
 	],
 	"healthicon": "JulianWireframe",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		0
 	],
 	"camera_position": [
-		-110,
-		-390
+		-520,
+		-470
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 2
 }

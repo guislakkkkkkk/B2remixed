@@ -70,8 +70,8 @@
 	"no_antialiasing": false,
 	"image": "characters/B2GarcelloFreezing",
 	"position": [
-		-40,
-		90
+		160,
+		390
 	],
 	"healthicon": "b2GarCold",
 	"flip_x": false,
@@ -81,9 +81,9 @@
 		162
 	],
 	"camera_position": [
-		-180,
-		-190
+		-380,
+		-490
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 4
 }

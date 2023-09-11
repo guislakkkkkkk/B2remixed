@@ -1,0 +1,14 @@
+:music:gar:0.4
+:font:size:32
+:autoskip:during:3.0
+:garcello:cold: That was v-very fun but it's getting really cold. You feeling it t-
+:garcello:coldcalm: Oh you're completely fine.
+:B3:happy: Hehe.
+:autoskip:during:2.5
+:garcello:coldhappy: Well, I think we'll be fine. I've been through wor-
+:garcello:sneeze: ACHOO!
+:B3:happy: Bless you.
+:garcello:coldhappy: Thanks.
+:garcello:coldcalm: I think we should do just one more song. Then we leave.
+:B3:ready: Sure!
+:garcello:coldhappy: Alright kid, let's do this.

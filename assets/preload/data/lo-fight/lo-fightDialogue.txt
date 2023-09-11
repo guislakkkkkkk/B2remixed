@@ -1,0 +1,34 @@
+:music:whit:0.4
+:font:size:32
+:Shaya:embarrased: Come on B3, you didn’t dress up for the job? You at least could’ve worn some casual clothes.
+:B3:embarrased: (These are my casual clothes…)
+:Shaya:veryhappy: You know, I can’t believe my Dad’s paying us to be backstage bodyguards for his show.
+:B3:happy: Yeah!
+:Shaya:embarrased: It’s a cool job, but knowing him this is probably a test to see if you can “protect me.” 
+:Shaya:confused: Ugh… why does he have to always be so stubborn…
+:Shaya:embarassed: Well, let’s just get this job done and go home…
+:Shaya:embarassed: …
+:B3:happy: …
+:Shaya:smug: …
+:B3:happy: …
+:Shaya:smug: Hey, since we’re alone… smoochies?
+:Whitty:hm: Hey. You two.
+:Shaya:angry: Bro. 
+:Shaya:angry: You interrupted smoochies. Look at what you did to my man's face.
+:B3:sad: ...
+:Whitty:hm: I need to get through that door. Move.
+:Shaya:embarrased: Sorry, "mysterious bomb who needs to cover up his grippers," can’t let you through without a backstage pass. 
+:B3:ready: Yeah. 
+:Whitty:annoyed: This is urgent. I need to speak to Vlad Dearest. Immediately.
+:Shaya:smug: Sorry bud, but no matter how big a fan you are I can’t let you through without a pass.
+:Shaya:embarrased: (B3, was that good bouncing?)
+:B3:happy: (The best.)
+:Shaya:veryhappy: Yay!
+:autoskip:during:4.2
+:effect:shake:1.0
+:Whitty:angry: OH MY GOD I DON’T HAVE TIME FOR THIS. THEY’RE GONNA FIND ME SOON. GET OUT OF MY WAY OR EL-
+:effect:shake:0.0
+:B3:ready: Else you'll have rap battle with me for the backstage pass?
+:Shaya:shocked: Really babe?! Didn't you just rap battle Pico?
+:Whitty:confused: Wha- what?? Ugh... you know what fine. I’ll do your stupid rap battle.
+:Whitty:hm: And I don’t have much time, so let’s do this quickly.

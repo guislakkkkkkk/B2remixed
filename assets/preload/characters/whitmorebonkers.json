@@ -59,8 +59,8 @@
 	"no_antialiasing": false,
 	"image": "characters/B2BallisticWhittyAngrier",
 	"position": [
-		70,
-		430
+		280,
+		780
 	],
 	"healthicon": "BallisticWhitty",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		255
 	],
 	"camera_position": [
-		-120,
-		-530
+		-290,
+		-890
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 4
 }

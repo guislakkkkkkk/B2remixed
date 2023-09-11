@@ -1,0 +1,15 @@
+:music:gar:0.4
+:font:size:32
+:garcello:surprised: Oh.
+:garcello:what: Uh... I guess I was wrong about the ghost rules. Sorry.
+:text:speed: 0.4
+:B3:confused: ...
+:text:speed: 0.04
+:B3:confused: Let's get you home man.
+:garcello:glad: Haha. Yeah, I was about to say the same thing.
+:text:speed: 0.12
+:garcello:glad: ...
+:garcello:glad: ...
+:garcello:glad: ...
+:text:speed: 0.04
+:garcello:glad: Do you wanna stop by McDonalds by any chance?

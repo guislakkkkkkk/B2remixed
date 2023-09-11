@@ -1,22 +1,22 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-100,
 				220
 			],
-			"anim": "chill",
+			"loop": false,
 			"fps": 24,
-			"name": "GhostCelloChillFlow",
-			"indices": []
+			"anim": "chill",
+			"indices": [],
+			"name": "GhostCelloChillFlow"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/GarChillFlow",
 	"position": [
-		-140,
-		-20
+		50,
+		230
 	],
 	"healthicon": "b3GarDead",
 	"flip_x": false,
@@ -26,9 +26,9 @@
 		239
 	],
 	"camera_position": [
-		70,
-		-150
+		-140,
+		-410
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 2
 }

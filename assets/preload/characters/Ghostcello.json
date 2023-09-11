@@ -1,47 +1,46 @@
 {
 	"animations": [
 		{
+			"loop": true,
 			"offsets": [
 				-100,
 				190
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "GhostCelloIdle"
+			"fps": 24,
+			"name": "GhostCelloIdle",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-100,
 				204
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "GhostCelloRight",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GhostCelloRight"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-100,
 				207
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "GhostCelloUp",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "GhostCelloUp"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-100,
 				166
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "GhostCelloDown",
+			"anim": "singDOWN",
 			"indices": [
 				0,
 				1,
@@ -53,25 +52,26 @@
 				7,
 				8,
 				9
-			]
+			],
+			"name": "GhostCelloDown"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-100,
 				198
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "GhostCelloLeft",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GhostCelloLeft"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/B2GarcelloGhost",
 	"position": [
-		-150,
-		-30
+		70,
+		210
 	],
 	"healthicon": "b3GarDead",
 	"flip_x": false,
@@ -81,9 +81,9 @@
 		239
 	],
 	"camera_position": [
-		70,
-		-150
+		-140,
+		-390
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 2
 }

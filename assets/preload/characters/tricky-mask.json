@@ -1,66 +1,66 @@
 {
 	"animations": [
 		{
-			"loop": true,
 			"offsets": [
 				-218,
 				-180
 			],
-			"anim": "idle",
+			"loop": true,
 			"fps": 24,
-			"name": "TrickyIdle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "TrickyIdle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				316,
 				-243
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "TrickyLeft",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "TrickyLeft"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-93,
 				-201
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "TrickyDown",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TrickyDown"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-178,
 				-323
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "TrickyRight",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "TrickyRight"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-130,
 				-80
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "TrickyUp",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "TrickyUp"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/B2Tricky",
 	"position": [
-		-530,
-		-330
+		-330,
+		-100
 	],
 	"healthicon": "Tricky",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		255
 	],
 	"camera_position": [
-		130,
-		330
+		-80,
+		110
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 2
 }

@@ -1,66 +1,66 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				261,
 				872
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "B2WhittyIdle instance 1",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "B2WhittyIdle instance 1"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				444,
 				361
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "B2WhittyDown instance 1",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "B2WhittyDown instance 1"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				557,
 				739
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "B2WhittyLeft instance 1",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "B2WhittyLeft instance 1"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				291,
 				387
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "B2WhittyRight instance 1",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "B2WhittyRight instance 1"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				357,
 				689
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "B2WhittyUp instance 1",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "B2WhittyUp instance 1"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/whitty_cum",
 	"position": [
-		150,
-		550
+		340,
+		960
 	],
 	"healthicon": "Whitty",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		67
 	],
 	"camera_position": [
-		-490,
-		-530
+		-500,
+		-1200
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 4
 }
