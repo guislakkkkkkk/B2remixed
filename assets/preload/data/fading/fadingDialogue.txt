@@ -1,6 +1,0 @@
-:music:gar:0.4
-:font:size:32
-:garcello:glad: I can feel it. It's almost time.
-:garcello:glad: Thank you for staying here with me, B3. If you can, could you take care of Annie for me? She doesn't have much family other than me.  
-:B3:sad: I will.
-:garcello:glad: Thank you.
